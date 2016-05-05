@@ -7,6 +7,7 @@
 //
 // 参考 http://swift-ios.keicode.com/ios/passing-values-between-views.php
 // 参考 http://qiita.com/tajihiro/items/45c7adf2ef15df79bbf1
+// push
 
 import UIKit
 
